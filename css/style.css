@@ -106,3 +106,7 @@ footer{
   background: #78548f;
   z-index: 0;
 }
+
+.photo-image .mask{
+  width: 100%;
+}
