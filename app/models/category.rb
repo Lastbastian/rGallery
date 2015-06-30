@@ -1,3 +1,3 @@
 class Category < ActiveRecord::Base
-  has_any :images
+  has_many :images
 end
